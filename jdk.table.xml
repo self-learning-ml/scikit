@@ -1,0 +1,85 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7 (ml_learning_ch2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Users\Administrator\PycharmProjects\ml_learning_ch2\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/ml_learning_ch2/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/ml_learning_ch2/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/Lib/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/ml_learning_ch2/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/ml_learning_ch2/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/623632404" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/ml_learning_ch2" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (ml_learning_ch2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="C:\Users\Administrator\Anaconda2\envs\ml_learning_ch2\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda2/envs/ml_learning_ch2/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/envs/ml_learning_ch2/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/envs/ml_learning_ch2" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/envs/ml_learning_ch2/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/23350147" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/ml_learning_ch2" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (ml_learning_ch2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.6" />
+      <homePath value="C:\Users\Administrator\Anaconda2\envs\test_env\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda2/envs/test_env/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/envs/test_env/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/envs/test_env" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda2/envs/test_env/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-33263185" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
