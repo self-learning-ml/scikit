@@ -6,17 +6,27 @@
       <file name="/Dummy.txt" timestamp="1547392194228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/env_test" timestamp="1547363989932">
+      <file name="/env_test" timestamp="1550312621288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1547392137454">
+      <file name="/Python Console" timestamp="1550312244513">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/scikit/ML_Chap2/env_test.py" timestamp="1550312374819" />
       <file name="$USER_HOME$/PycharmProjects/ml_learning_ch2/env_test.py" timestamp="1547391266325">
         <mark key="[" line="106" column="37" />
         <mark key="]" line="106" column="36" />
         <mark key="." line="106" column="36" />
         <mark key="^" line="106" column="36" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/scikit/ML_Chap4/NormalEquation.py" timestamp="1550313086216">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/NormalEquation" timestamp="1550313088010">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ml_learning_ch2/venv/my_preprocessor.py" timestamp="1547363049162">
         <mark key="[" line="0" column="0" />
@@ -28,34 +38,34 @@
         <text encoding="base64">c3RhcnRfdHJhaW5fc2V0LnBsb3Qoa2luZCA9InNjYXR0ZXIiLCB4ID0gImxvbmd0aXR1ZGUiLCB5ID0ibGF0aXR1ZGUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I090aGVyIHdheQo=</text>
+        <text encoding="base64">cHJpbnQoWF9iKWRkCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">I090aGVyIHdheQo=</text>
+        <text encoding="base64">cHJpbnQoWF9iKWRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I1N0ZXAgMS4K</text>
+        <text encoding="base64">I090aGVyIHdheQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoaG91c2luZ19jYXRfMWhhdCkK</text>
+        <text encoding="base64">I1N0ZXAgMS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aG91c2luZ19jYXRfMWhhdCA9IGNhdF9lbmNvZGVyLmZpdF90cmFuc2Zvcm0oaG91c2VfY2F0X3Jlc2hhcGVkKQo=</text>
+        <text encoding="base64">cHJpbnQoaG91c2luZ19jYXRfMWhhdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aG91c2VfY2F0X3Jlc2hhcGVkID0gaG91c2VfY2F0ZWdvcmllcy52YWx1ZXMucmVzaGFwZSgtMSwxKQo=</text>
+        <text encoding="base64">aG91c2luZ19jYXRfMWhhdCA9IGNhdF9lbmNvZGVyLmZpdF90cmFuc2Zvcm0oaG91c2VfY2F0X3Jlc2hhcGVkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2F0X2VuY29kZXIgPSBDYXRlZ29yaWNhbEVuY29kZXIoZW4pCg==</text>
+        <text encoding="base64">aG91c2VfY2F0X3Jlc2hhcGVkID0gaG91c2VfY2F0ZWdvcmllcy52YWx1ZXMucmVzaGFwZSgtMSwxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW5jb2Rlci4K</text>
+        <text encoding="base64">Y2F0X2VuY29kZXIgPSBDYXRlZ29yaWNhbEVuY29kZXIoZW4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2F0X2VuY29kZXIuCg==</text>
+        <text encoding="base64">ZW5jb2Rlci4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGRwcmludCh0eXBlKGhvdXNlX2NhdF9lbmNvZGVkKSkK</text>
+        <text encoding="base64">Y2F0X2VuY29kZXIuCg==</text>
       </register>
       <register name="-" type="4">
         <text>.set_option('max_rows', 15))</text>
